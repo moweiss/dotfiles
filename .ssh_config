@@ -1,0 +1,5 @@
+Host lol
+  User git
+  HostName github.com
+  IdentityFile ~/.ssh/moweiss@umich.edu
+ 
